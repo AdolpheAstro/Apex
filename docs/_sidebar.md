@@ -2,9 +2,6 @@
   - [快速开始](/start)
   - [插件设置](/plugin)
   - <li ><a style="color:red" href="/problem">常见问题</a></li>
-  - [从微信公众号发送时光机](/wechat)
-  - [从浏览器扩展发送时光机](/crx)
-  - [从微信公众号发送文章](/wechat_post)
 
 - 进阶设定
   - [自定义栏目](/customize)
