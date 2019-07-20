@@ -13,23 +13,22 @@
 <script>
     window.$docsify = {
       homepage: 'Home.md',
-      repo: '1',
-      auto2top: true,
       coverpage: true,
-      executeScript: true,
+      subMaxLevel: 9999,
+      name: '<img src="/logo.svg" no-zoom height="32px">',
+      nameLink: {
+      '/': '/#/'
+      },
       loadSidebar: true,
-      loadNavbar: true,
-      mergeNavbar: true,
-      maxLevel: 4,
-      subMaxLevel: 2,
+      autoHeader: true,
+      auto2top: true,
       repo: 'ihewro/typecho-theme-handsome-docs',
       search: {
         paths: 'auto',
         placeholder: '输入关键字，快速寻找答案 🔍',
         noData: 'No Results! 😞',
         depth: 6,
-    }     
-      
+    }
       
   }
 </script>
