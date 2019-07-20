@@ -4,7 +4,7 @@
 
 [在线预览 Preview ](https://www.mlwly.cn/archives/apex.html) | [使用文档](https://handsome.ihewro.com/)
 
-![](image/Apex-index.jpg)
+![](image/Apex-index.png)
 
 
 
