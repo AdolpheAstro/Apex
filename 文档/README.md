@@ -1,6 +1,6 @@
-# 南博 - typecho 客户端
+# Apex
 
-> 见证，你努力的点滴
+> 浑然天成，蔚然成风
 
 [在线预览 Preview ](https://www.mlwly.cn/archives/apex.html) | [使用文档](https://handsome.mlwly.cn/)
 
